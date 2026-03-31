@@ -14,3 +14,6 @@ for num in range(lower, upper + 1):
                break
        else:
            print(num)
+
+# Comentario comprobando que el programa sigue funcionando luego de recuperarlo.
+# Comentario comprobando que el programa sigue funcionando luego de agregar un nuevo comentario.
